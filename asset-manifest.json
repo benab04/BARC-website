@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4127826.css",
+    "main.js": "/static/js/main.aba0d5d5.js",
+    "static/js/787.e22df4cb.chunk.js": "/static/js/787.e22df4cb.chunk.js",
+    "static/media/BGV.mp4": "/static/media/BGV.f793ec628071615900ec.mp4",
+    "static/media/img2.jpg": "/static/media/img2.572e8198a6513506b0e0.jpg",
+    "static/media/4_july2021.jpeg": "/static/media/4_july2021.45fb28154431a0e2c1a7.jpeg",
+    "static/media/bg5.png": "/static/media/bg5.3cdff4901207fbee8411.png",
+    "static/media/img3.jpg": "/static/media/img3.a24e48e3301f7a5682cc.jpg",
+    "static/media/img1.jpg": "/static/media/img1.d164ea98ace976f19f4c.jpg",
+    "static/media/vk tiwari sir.jpg": "/static/media/vk tiwari sir.c052f4fecb138cbd3c06.jpg",
+    "static/media/Signature.jpg": "/static/media/Signature.2873cf5916ab41faf98a.jpg",
+    "index.html": "/index.html",
+    "main.a4127826.css.map": "/static/css/main.a4127826.css.map",
+    "main.aba0d5d5.js.map": "/static/js/main.aba0d5d5.js.map",
+    "787.e22df4cb.chunk.js.map": "/static/js/787.e22df4cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4127826.css",
+    "static/js/main.aba0d5d5.js"
+  ]
+}
