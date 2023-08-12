@@ -1,0 +1,160 @@
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  @media screen and (min-width: 1025px) {
+    .about-us-outer{
+        background-color: #08707f;
+        max-height: 100vh;
+    }
+    .about-grid {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .about-us {
+      /* width: 100vw; */
+      text-align: center;
+      /* background-color: #00000057; */
+      /* padding: 5rem; */
+      /* background-color: none; */
+    }
+    .about-us h1 {
+      /* color: #e8da6d; */
+      font-size: 3rem;
+      font-weight: 700;
+      color: lavender;
+      /* padding-top: 5vh; */
+    }
+    .about-us-text {
+      /* height: 20vh; */
+      text-align: center;
+      color: #262626;
+      font-weight: 500;
+      /* position: relative; */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .about-us-text p {
+      font-size: max(1.5rem, 100%);
+      padding: 0 2rem;
+    }
+  
+    .about-us-container{
+      max-width: 1240px;
+      background-color: #08707f;
+      margin-bottom: 2rem;
+      display: flex;
+      flex-direction: column;
+      
+    }
+  
+    .yip-stats-container{
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1rem;
+    }
+    .yipstats {
+      border: hidden;
+      text-align: center;
+      height: auto;
+      width: 100%;
+      max-width: 1240px;
+      padding: 5rem 10rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-color: #08707f;
+    }
+    
+    .yipnav {
+      /* background-color: #f2f2f2; */
+      /* background-color: white; */
+      border-color: none;
+      border: hidden;
+      justify-content: center;
+      align-items: center;
+      border-radius: 30px;
+    }
+    /* Add more buttons as yip-button4 and so on */
+    #yip-button1,
+    #yip-button2,
+    #yip-button3 {
+      border: hidden;
+      background-color: lightblue;
+      border-radius: 20px;
+      margin: 1em;
+    }
+  
+    .text-success {
+      font-weight: 800;
+    }
+    .text-success p {
+      background-color: lightblue;
+      color: #08707f;
+      margin: auto;
+      font-size:1.5rem;
+    }
+    .yipstats-heading {
+      font-size: 3rem;
+      font-weight: 800;
+      padding: 1.2rem 0;
+      /* background-color: white; */
+      /* color: #08707f; */
+      color: rgb(34, 34, 34);
+      /* background-color:none; */
+    }
+    .yipitems {
+      /* width:50vw; */
+      display: grid;
+      grid-template-columns: repeat(3, 18vw);
+      justify-content: center;
+      align-items: center;
+      padding: 0;
+      column-gap: 0;
+      margin: 0;
+    }
+    .h1-seo {
+      font-size: 3rem;
+      /* font-size: min(4vw, 3rem); */
+      column-gap: 0;
+      font-weight: 900;
+      color: lavender;
+      /* color: rgb(222, 233, 228); */
+    }
+    .yipcardbody {
+      padding-top: 3vw;
+      /* background-color: white; */
+      /* border-radius: 30px; */
+    }
+    .yipcard {
+      /* box-shadow: 0 0 5px rgba(129, 124, 124, 0.2); */
+      background-color: transparent;
+      backdrop-filter: blur(5px);
+      /* background-color: rgba(107, 107, 107, 0.359); */
+      border-radius: 5px;
+    }
+    .count-card{
+        /* background-color: pink; */
+        padding:1rem;
+    }
+    
+    .tab-space {
+      background-color: none;
+    }
+    .count-title {
+      color: #0cacc4;
+      /* text-decoration: none; */
+      /* font-size: 0; */
+      font-size: max(1.3vw, 1rem);
+      font-weight: 700;
+  
+      /* padding-bottom: 4vw; */
+    }
+  }
+  
