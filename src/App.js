@@ -1,19 +1,19 @@
 // import logo from './logo.svg';
 import React from "react";
-import Hero from "../src/components/Hero/hero";
-import Navbar from "../src/components/Navbar/Navbar";
+import Hero from "./components/Hero/hero";
+import Navbar from "./components/Navbar/Navbar";
 import AboutUs from "./components/About/AboutUs";
-import WhatWeDo from "../src/components/WhatWeDo/Wwd";
-import Contact from "./components/Contact/ContactUs"
+import WhatWeDo from "./components/WhatWeDo/Wwd";
+import Contact from "./components/Contact/ContactUs";
+import Testimonials from "./components/Testimonials/testimonials";
 
 function App(){
-  return (<div
-  //  style={{display:"flex", flexDirection:"column", justifyContent:"center",alignItems:"center"}}
-   >
+  return (<div>
   <Navbar />
   <Hero />
   <AboutUs />
   <WhatWeDo />
+  <Testimonials />
   <Contact />
   </div>);
 }
